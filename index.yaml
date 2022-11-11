@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   application:
   - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-11-11T15:47:35.622436611Z"
+    description: A Helm chart for Kubernetes
+    digest: 0057a4ef4c77557759cb0230a08f1b1ddee12221f4a4f0fd70c1bf0a2204d89c
+    name: application
+    type: application
+    urls:
+    - https://github.com/muleops-io/generic-helm-chart/releases/download/application-0.0.2/application-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2022-11-11T15:20:03.192382962Z"
     description: A Helm chart for Kubernetes
